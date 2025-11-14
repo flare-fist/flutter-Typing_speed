@@ -4,7 +4,7 @@ TypeRush is a modern AMOLED-dark typing speed tester built with Flutter. It meas
 
 ## 🖼️ Output Screenshot
 
-assets/screenshot/output.png
+![TypeRush Output](assets/screenshot/output.png)
 
 
 ## ✨ Features
